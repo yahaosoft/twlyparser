@@ -16,7 +16,7 @@ https://github.com/YHisamatsu/livescript-mode for syntax highlight.
 The node.js in Ubuntu is pretty old and does not work with
 LiveScript. Please use the one in chris ppa.
 
-# view on the web
+## view on the web
 
 http://g0v.github.io/mapView/ly
 
